@@ -1,0 +1,38 @@
+{
+  "name": "Sistem Operasi Komputer",
+  "short_name": "SOK",
+  "start_url": "https://www.sistemoperasikomputer.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Tutorial sistem operasi komputer windows, android, linux dan lain-lain",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-bLmTEipNUYw/XSWKrB-fOtI/AAAAAAAASbA/n4xDcCvJG5Elxqh2Ihv4CFD6VkmuaxcVQCLcBGAs/s1600/sok_48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-QfjDiNw_ZyQ/XSWKruQYgSI/AAAAAAAASbI/ar9j3Vh46GwxZ_CAnocE-NFT8T4oG7jQACLcBGAs/s1600/sok_72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-VHSs30wOHYk/XSWKsLOChHI/AAAAAAAASbQ/zvbzIgF0y6Ml2q-N28Yb9VynQj_tjhrOwCLcBGAs/s1600/sok_96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-UcjeClfTKQ8/XSWKppJbm0I/AAAAAAAASao/aeNf2VUxFKoGPDBBPvHa9Bheda9jK-iOgCLcBGAs/s1600/sok_144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-x5xDSk6nqmU/XSWKpiveRKI/AAAAAAAASas/yynXf3_YbHYPJg-CLQKcsYjBAtqmLShtQCLcBGAs/s1600/sok_168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-T2-429BHgyw/XSWKqYk3JsI/AAAAAAAASa0/NvLhHrri6eQveRdwtY7rjdqYiIY1to2bACLcBGAs/s1600/sok_192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6mg2jPGfuJA/XSWKrZe4NQI/AAAAAAAASbE/-9ZZDs7VPXYdkRsAteZifXXP63CremTDQCLcBGAs/s1600/sok_512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
